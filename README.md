@@ -1,1 +1,2 @@
-# Song-Popularity-Prediction
+# Song-Popularity-Prediction 🎵
+By harnessing comprehensive datasets encompassing diverse musical genres, artist attributes, track features, and user behaviors, this project embarks on a robust analysis. Employing methodologies rooted in probability theory and statistical inference, we delve into feature engineering, exploratory data analysis, and regression modeling to discern patterns and correlations that influence a song's resonance with listeners. This academic project focuses on employing advanced probability and statistical methodologies to predict the popularity of songs within music streaming platforms such as Spotify and Deezer.
